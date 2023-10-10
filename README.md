@@ -1,7 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
-
+![image](https://github.com/DIegoDevcode/product-preview-card-component-main/assets/105946956/24f879dd-e93a-42a9-832b-d87607fd7853)
 ## Bienvenido! 👋
 La Tarjeta de Presentación de Producto es una herramienta eficaz para resaltar y promocionar tus productos de manera profesional y atractiva. Esta tarjeta está diseñada para ayudarte a comunicar de manera efectiva las características y ventajas de tu producto a clientes potenciales o colaboradores.
 
