@@ -44,10 +44,14 @@ body {
         flex-direction: column;
     }
 
-    .inner-card img {
+    .inner-card .one {
         width: 300px;
         height: 220px;
         padding-top: 5px;
+    }
+
+    .inner-card .Two {
+        display: none;
     }
 
     .info-container h3 {
@@ -80,7 +84,7 @@ body {
         display: flex;
     }
 
-    .prices h1 {
+    .prices h2 {
         color: var(--Dark-cyan);
         font-size: 25px;
         padding-top: 10px;
@@ -109,7 +113,54 @@ body {
     .attribution {
         padding-top: 15px;
         width: 290px;
-        font-size: 11px;
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .attribution a {
+        color: hsl(228, 45%, 44%);
+    }
+}
+
+@media (min-width: 800px) {
+    .inner-card {
+        background-color: #FFFFFF;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 15px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        width: 630px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+    }
+
+    .inner-card .one {
+        display: none;
+    }
+
+    .inner-card img:nth-child(2) {
+        display: block;
+    }
+
+
+    .inner-card img {
+        height: 450px;
+
+    }
+
+    .info-container h1 {
+        width: 151px;
+    }
+
+    .prices {
+        padding-bottom: 15px;
+    }
+
+    .attribution {
+        padding-top: 15px;
+        width: 655px;
+        font-size: 13px;
         text-align: center;
     }
 
