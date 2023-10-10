@@ -35,6 +35,6 @@ Si deseas contribuir al desarrollo de esta Tarjeta de Presentación de Producto,
 
 ## Autor
 
-Esta Tarjeta de Presentación de Producto fue creada por el equipo de desarrollo de XYZ.
+Esta Tarjeta de Presentación de Producto fue creada Juan Diego Sastre Moreno.
 
 ¡Gracias por considerar nuestra Tarjeta de Presentación de Producto! Esperamos que te ayude a promocionar tus productos de manera efectiva y atractiva, y atraiga a nuevos clientes e interesados. Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con nosotros.
